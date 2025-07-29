@@ -41,7 +41,7 @@ also i went for my chemo today and the cancer has reduced in size by 20% which i
 
 ## 🛠️ Emotion Analysis Pipeline
 
-### 🔍 File: `sa_ex.py`
+### 🔍 File: `transformer.py`
 
 This Python script performs sentiment analysis using Hugging Face Transformers. It includes:
 
