@@ -81,7 +81,7 @@ nltk.download('punkt_tab')
 ## 🚀 Running the Script
 
 ```bash
-python sa_ex.py
+python transformer.py
 ```
 
 Ensure your input narrative is embedded in the script or passed via function.
