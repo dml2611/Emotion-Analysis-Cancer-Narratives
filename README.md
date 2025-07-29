@@ -1,4 +1,4 @@
-# 💬 Analysing Emotions in Cancer Narratives: A Corpus-Driven Approach
+# 😊🙁😐 Analysing Emotions in Cancer Narratives: A Corpus-Driven Approach
 
 This repository supports the exploratory research project **"Analysing Emotions in Cancer Narratives: A Corpus-Driven Approach"**, which investigates how patients and carers express emotions in the context of cancer, especially across treatment stages. This work uses Reddit posts to build a real-world corpus of long-form cancer narratives and applies modern NLP techniques to extract emotional cues and sentiment classifications.
 
