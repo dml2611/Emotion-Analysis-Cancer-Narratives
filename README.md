@@ -112,7 +112,7 @@ We welcome suggestions and contributions to improve model performance, emotion t
 
 ## 📬 Contact
 
-For questions or collaborations, reach out to \[Dr. Daisy Monika Lal] at \[[your.email@example.com](mailto:your.email@example.com)]
+For questions or collaborations, reach out to \[Dr. Daisy Monika Lal] at \[[your.email@example.com](d.m.lal@lancaster.ac.uk)]
 
 ---
 
